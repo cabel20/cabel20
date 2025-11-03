@@ -56,7 +56,7 @@ To bridge **Web3, AI, and sustainability** — proving that innovation can be bo
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://instagram.com/b.e.l.a.c_verse" target="_blank">
+  <a href="https://instagram.com/b.e.l.a.c.verse" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
