@@ -1,6 +1,6 @@
 <!-- Cosmic Caleb | Web3 x AI x GreenTech -->
 
-<h1 align="center">Hey 👋, I'm Cosmus Caleb Munyaka</h1>
+<h1 align="center">Hey 👋, I'm Caleb Munyaka</h1>
 <h3 align="center">Web3 Developer • AI Explorer • Sustainable Tech Innovator</h3>
 
 ---
