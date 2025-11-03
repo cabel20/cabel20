@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me  
-I’m **Cosmus Caleb Munyaka**, a **Computer Science student** and **Web3 developer** passionate about merging **blockchain, AI, and clean energy systems** to create sustainable, decentralized solutions.  
+I’m **Caleb Munyaka**, a **Computer Science student** and **Web3 developer** passionate about merging **blockchain, AI, and clean energy systems** to create sustainable, decentralized solutions.  
 
 I believe the future belongs to builders who combine **technology and purpose** — that’s why I’m designing systems that power both **digital and natural worlds**. 🌍⚡  
 
