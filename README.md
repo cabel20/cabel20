@@ -1,39 +1,42 @@
 <div align="center">
 
-<!-- Futuristic Gradient Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,40:00e575,80:7b2fff,100:00fff7&height=220&section=header&text=Caleb%20Munyaka&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web3%20Architect%20%7C%20AI%20Explorer%20%7C%20GreenTech%20Innovator&descAlignY=60&descSize=19&descColor=00fff7"/>
+<!-- ================================================================= -->
+<!-- 🚀 ULTRA CYBERPUNK HEADER BANNER // CALEB MUNYAKA                -->
+<!-- ================================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,30:00e575,70:7b2fff,100:00fff7&height=230&section=header&text=Caleb%20Munyaka&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Web3%20Architect%20◈%20Autonomous%20AI%20Explorer%20◈%20GreenTech%20Innovator&descAlignY=58&descSize=19&descColor=00fff7"/>
 
-<!-- Animated Typing SVG -->
+<!-- Animated Typing SVG Console -->
 <a href="https://github.com/cabel20">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=750&lines=0x_CALEB+MUNYAKA+%3A%3A+SYSTEM+ONLINE;%E2%9A%A1+CODE+IS+THE+NEW+ENERGY+%E2%80%94+MAKING+IT+RENEWABLE;Web3+%26+Smart+Contract+Architect;AI+Agent+%26+Autonomous+Systems+Explorer;IoT+%2B+Blockchain+GreenTech+Pioneer;Building+for+Digital+%26+Natural+Worlds+%F0%9F%8C%8D%E2%9A%A1" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2800&pause=700&color=00FFF7&center=true&vCenter=true&width=800&lines=0x_CALEB+MUNYAKA+%3A%3A+KERNEL+ONLINE+%E2%9A%A1;%F0%9F%8C%B1+CODE+IS+THE+NEW+ENERGY+%E2%80%94+MAKING+IT+RENEWABLE;Web3+%26+Smart+Contract+Security+Architect;Autonomous+AI+Agents+%26+Decentralized+Oracles;IoT+%2B+Blockchain+CleanTech+Pioneer;Building+Systems+for+Digital+%26+Natural+Worlds+%F0%9F%8C%8D" alt="Typing Header" />
 </a>
 
 <br/>
 
-<!-- Status & Location Badges -->
-[![Location](https://img.shields.io/badge/Node-Nairobi%2C%20Kenya%20🇰🇪-00fff7?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d0d0d)](https://github.com/cabel20)
-[![Focus](https://img.shields.io/badge/Focus-Web3%20%7C%20AI%20%7C%20GreenTech-00e575?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0d0d)](https://github.com/cabel20)
-[![Status](https://img.shields.io/badge/System_Status-🟢_ONLINE_BUILDING-7b2fff?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0d0d)](https://github.com/cabel20)
+<!-- Holographic Status Badges -->
+[![Node](https://img.shields.io/badge/NODE-Nairobi%2C%20Kenya%20🇰🇪-00fff7?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d0d0d)](https://github.com/cabel20)
+[![Focus](https://img.shields.io/badge/CORE-Web3%20%7C%20AI%20%7C%20GreenTech-00e575?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0d0d)](https://github.com/cabel20)
+[![Status](https://img.shields.io/badge/STATE-🟢_OVERCLOCKED_%26_BUILDING-7b2fff?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0d0d)](https://github.com/cabel20)
+[![Hardware](https://img.shields.io/badge/SYS-Linux%20Kernel%20%7C%20IoT%20Rig-ff00c8?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d)](https://github.com/cabel20)
 
 </div>
 
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  OPERATOR  : CALEB MUNYAKA // @cabel20                                   ║
-║  CLEARANCE : WEB3 ARCHITECT // AI EXPLORER // SUSTAINABLE TECH INNOVATOR  ║
-║  NODE      : NAIROBI, KENYA 🇰🇪                                           ║
-║  MANTRA    : "Code is the new energy — and I'm here to make it renewable."║
-║  STATUS    : ARCHITECTING THE DECENTRALIZED & INTELLIGENT FUTURE ◈ ONLINE ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  OPERATOR      : CALEB MUNYAKA // @cabel20                                       ║
+║  CLASSIFICATION: WEB3 ARCHITECT // AI EXPLORER // SUSTAINABLE TECH INNOVATOR     ║
+║  PRIMARY NODE  : NAIROBI, KENYA 🇰🇪  (EAT / UTC+3)                                ║
+║  MANTRA        : "Code is the new energy — and I'm here to make it renewable."   ║
+║  MISSION       : MERGING BLOCKCHAIN TRANSPARENCY, AGENTIC AI & CLEAN HARVESTING  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
 > # ⚡ *"CODE IS THE NEW ENERGY"* ⚡
-> ### *— Building systems that power both digital and natural worlds.*
-> *I merge blockchain transparency, artificial intelligence, and clean energy mechanics to solve real-world problems.*
+> ### *— Engineering infrastructure where digital computation and ecological renewal converge.*
+> *From mechanical wind-powered digesters to decentralized tokenomics, I build systems that don't just consume energy — they generate and account for it.*
 
 </div>
 
@@ -41,49 +44,64 @@
 
 <div align="center">
 
-## 🎯 CURRENT // SYSTEM STATE
+## 🎮 SYSTEM DIAGNOSTICS // LIVE STATE
 
 </div>
 
 ```python
 class CalebMunyaka:
     def __init__(self):
-        self.name         = "Caleb Munyaka"
-        self.handle       = "cabel20"
-        self.role         = "Computer Science Student & Web3 / AI Engineer"
-        self.location     = "Nairobi, Kenya 🇰🇪"
-        self.passions     = ["Smart Contracts", "Agentic AI", "Clean Energy Telemetry", "DePIN"]
+        self.operator        = "Caleb Munyaka"
+        self.alias           = "@cabel20"
+        self.location        = "Nairobi, Kenya 🇰🇪"
+        self.status          = "🟢 ONLINE — Building at the edge of Web3 & ClimateTech"
         
-        self.ecosystems   = ["Ethereum", "Solana", "Polygon", "IPFS", "EVM Networks"]
-        self.languages    = ["Solidity", "Rust", "Python", "JavaScript", "TypeScript", "C++", "SQL"]
-        self.frameworks   = ["React", "Next.js", "Node.js", "FastAPI", "Hardhat", "Foundry", "TailwindCSS"]
-        self.specialties  = [
-            "Smart Contract Engineering & Architecture",
-            "IoT + Blockchain Telemetry Integration",
-            "Autonomous AI Agents & Web3 Oracles",
-            "Decentralized Physical Infrastructure (DePIN)",
-            "Regenerative Finance (ReFi) Protocol Design"
-        ]
-
-        self.active_innovation = {
-            "project": "Wind-Powered Biogas Mixer",
-            "description": "Mechanical innovation linked with IoT sensors and on-chain telemetry to track renewable bio-methane output.",
-            "status": "Engineering & Active Testing 🌿⚡"
+        self.core_domains    = ["Smart Contracts & DeFi", "Agentic AI & LLM Systems", "IoT Telemetry", "DePIN"]
+        self.blockchain      = ["Ethereum (Solidity/EVM)", "Solana (Rust)", "Polygon", "IPFS", "The Graph"]
+        self.languages       = ["Solidity", "Rust", "Python", "JavaScript", "TypeScript", "C++", "SQL"]
+        self.frameworks      = ["Next.js", "React", "FastAPI", "Node.js", "Hardhat", "Foundry", "TailwindCSS"]
+        
+        self.flagship_rnd    = {
+            "title": "Wind-Powered Biogas Mixer",
+            "mechanics": "Wind turbine kinetics direct-driving an anaerobic bio-digester",
+            "iot_layer": "ESP32 + Hall effect RPM sensors + Methane pressure gauges",
+            "web3_layer": "Real-time on-chain telemetry oracle + Automated ReFi carbon minting"
         }
 
-    def mission(self):
-        return "Bridging Web3, AI, and Sustainability to prove that innovation can be both intelligent and impactful."
+    def philosophy(self) -> str:
+        return "Decentralization provides trust. AI provides intelligence. GreenTech provides purpose."
 
 dev = CalebMunyaka()
-print(dev.mission())
-# >>> Bridging Web3, AI, and Sustainability to prove that innovation can be both intelligent and impactful.
+print(dev.philosophy())
+# >>> Decentralization provides trust. AI provides intelligence. GreenTech provides purpose.
 ```
 
 ---
 
 <div align="center">
 
-## ⛓️ SMART CONTRACT & ARCHITECTURE PROTO
+## 🏗️ SYSTEM ARCHITECTURE // BIOGAS TELEMETRY PIPELINE
+
+</div>
+
+```text
+┌─────────────────────────┐          ┌─────────────────────────┐          ┌─────────────────────────┐
+│   🍃 WIND TURBINE RIG   │  ─────▶  │   🔄 ANAEROBIC MIXER    │  ─────▶  │  📡 IoT TELEMETRY RIG   │
+│   Kinetic Wind Capture  │          │   Organic Waste Slurry  │          │  RPM • Methane Yield • P│
+└─────────────────────────┘          └─────────────────────────┘          └─────────────────────────┘
+                                                                                       │
+                                                                                       ▼
+┌─────────────────────────┐          ┌─────────────────────────┐          ┌─────────────────────────┐
+│   🌿 ReFi CARBON VAULT  │  ◀─────  │  ⛓️ SOLIDITY EVM VAULT  │  ◀─────  │  🤖 AI ORACLE NODE      │
+│   Yield Staking & Mint  │          │  Immutable Verification │          │  Merkle Proofs & Feeds  │
+└─────────────────────────┘          └─────────────────────────┘          └─────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ⛓️ SMART CONTRACT SPEC // CORE PROTOCOL
 
 </div>
 
@@ -94,20 +112,20 @@ pragma solidity ^0.8.20;
 /**
  * @title BiogasMixerTelemetry
  * @author Caleb Munyaka (@cabel20)
- * @notice On-chain verification for wind-powered biogas renewable energy telemetry
+ * @notice On-chain cryptographic telemetry oracle for renewable biogas production
  */
 contract BiogasMixerTelemetry {
-    struct TelemetryPoint {
+    struct TelemetryData {
         uint256 timestamp;
         uint256 windSpeedRpm;
         uint256 bioGasYieldM3;
-        bytes32 sensorMerkleRoot;
+        bytes32 merkleRoot;
     }
 
     address public immutable operator;
-    TelemetryPoint[] public telemetries;
+    TelemetryData[] public records;
 
-    event EnergyProduced(uint256 indexed timestamp, uint256 indexed yieldM3);
+    event TelemetryCommitted(uint256 indexed id, uint256 indexed yieldM3, uint256 timestamp);
 
     constructor() {
         operator = msg.sender;
@@ -115,8 +133,12 @@ contract BiogasMixerTelemetry {
 
     function recordTelemetry(uint256 _rpm, uint256 _yield, bytes32 _proof) external {
         require(msg.sender == operator, "Unauthorized operator");
-        telemetries.push(TelemetryPoint(block.timestamp, _rpm, _yield, _proof));
-        emit EnergyProduced(block.timestamp, _yield);
+        records.push(TelemetryData(block.timestamp, _rpm, _yield, _proof));
+        emit TelemetryCommitted(records.length - 1, _yield, block.timestamp);
+    }
+
+    function totalRecords() external view returns (uint256) {
+        return records.length;
     }
 }
 ```
@@ -125,20 +147,20 @@ contract BiogasMixerTelemetry {
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY & ANALYTICS // LIVE FEED
+## 📊 TELEMETRY MATRIX & GITHUB ANALYTICS
 
 </div>
 
 <div align="center">
 
-<!-- Full Width Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cabel20&bg_color=0d0d0d&color=00fff7&line=00e575&point=7b2fff&area=true&area_color=00fff7&hide_border=false&border_color=00fff722&title_color=00fff7&custom_title=Caleb%20Munyaka%20%7C%20Contribution%20Activity%20Graph" alt="Activity Graph" />
+<!-- Full-Width Glowing Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cabel20&bg_color=0d0d0d&color=00fff7&line=00e575&point=7b2fff&area=true&area_color=00fff7&hide_border=false&border_color=00fff733&title_color=00fff7&custom_title=Caleb%20Munyaka%20%7C%20Contribution%20Activity%20Stream" alt="Activity Graph" />
 
 <br/><br/>
 
-<!-- Stats & Top Langs Side by Side -->
+<!-- Stats & Top Languages Side by Side -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabel20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff7&title_color=00fff7&icon_color=00e575&text_color=ffffff&bg_color=0d0d0d&custom_title=Caleb+Munyaka+%7C+GitHub+Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabel20&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff7&title_color=00fff7&text_color=ffffff&bg_color=0d0d0d&custom_title=Top+Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabel20&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff7&title_color=00fff7&text_color=ffffff&bg_color=0d0d0d&custom_title=Dominant+Stacks" />
 
 <br/>
 
@@ -147,7 +169,17 @@ contract BiogasMixerTelemetry {
 
 <br/><br/>
 
-<!-- Profile Badges & View Counter -->
+<!-- Summary Cards Profile Details -->
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cabel20&theme=tokyonight" alt="Contribution Details" />
+
+<br/><br/>
+
+<!-- Profile Trophies -->
+<img src="https://github-trophies.vercel.app/?username=cabel20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- Live Counters -->
 <img src="https://komarev.com/ghpvc/?username=cabel20&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/cabel20?label=FOLLOWERS&style=for-the-badge&color=00E575" alt="Followers" />
 <img src="https://img.shields.io/github/stars/cabel20?label=TOTAL%20STARS&style=for-the-badge&color=7B2FFF" alt="Stars" />
@@ -158,7 +190,7 @@ contract BiogasMixerTelemetry {
 
 <div align="center">
 
-## 🛠️ TECH ARSENAL & ENGINEERING TOOLKIT
+## 🛠️ FULL TECH ARSENAL // ARMED & OPERATIONAL
 
 </div>
 
@@ -176,8 +208,9 @@ contract BiogasMixerTelemetry {
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
-### 🤖 AI, Systems & Backend
+### 🤖 AI, Data & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -197,8 +230,9 @@ contract BiogasMixerTelemetry {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ☁️ DevOps, IoT & Environment
+### ☁️ DevOps, IoT & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -216,64 +250,73 @@ contract BiogasMixerTelemetry {
 
 <div align="center">
 
-## 🗂️ PROJECTS // DOSSIER
+## 🗂️ FLAGSHIP R&D // PROJECT DOSSIER
 
 </div>
 
 ### 🌿 `[01]` WIND-POWERED BIOGAS MIXER // TELEMETRY SUITE
-> **Domain:** CleanTech & Mechanical Innovation • IoT • Blockchain Telemetry  
-> **Status:** 🟢 Active Engineering & Testing  
-> **Overview:** Mechanical wind-driven anaerobic digester mixer integrated with IoT sensors. Streams real-time rotational speed, pressure, and methane output data to an immutable blockchain ledger.
+> **Domain:** CleanTech & Mechanical Innovation • IoT Embedded • Blockchain Telemetry  
+> **Status:** 🟢 Active Prototyping & Field Testing  
+> **Overview:** Mechanical wind turbine linked directly to an anaerobic digester mixing shaft. Embedded sensors capture rotational torque, methane output, and pressure, transmitting signed proofs to an on-chain ledger to verify carbon offset integrity.
 ```text
-STACK: IoT Sensors · C++ · Solidity · IPFS · Web3 Telemetry
+TECH STACK: C++ (Embedded) · IoT Sensors · Solidity · IPFS · Web3.py
+```
+
+<details>
+<summary><b>🔍 View Deep Architecture Specs</b></summary>
+<br/>
+
+- **Kinetic Transmission:** Direct mechanical gear step-down converting erratic wind gusts into stable torque for uniform slurry digestion.
+- **Sensor Stream:** Hall effect sensors monitor RPM; MQ-4 gas sensors record methane concentration; telemetry payload bundled into Merkle trees.
+- **On-Chain Settlement:** Smart contract verifies Merkle root proofs and timestamps gas yield for verifiable carbon credits.
+</details>
+
+---
+
+### ⚡ `[02]` DECENTRALIZED MICROGRID ENERGY DAPP
+> **Domain:** DePIN (Decentralized Physical Infrastructure) • Renewable Energy Settlement  
+> **Status:** 🟡 Active Development  
+> **Overview:** Peer-to-peer decentralized application empowering local solar and renewable biogas producers to trade surplus kilowatt-hours across microgrids with automated escrow clearing.
+```text
+TECH STACK: Solidity · Next.js · Ethers.js · Hardhat · TailwindCSS
 ```
 
 ---
 
-### ⚡ `[02]` DECENTRALIZED ENERGY GRID // P2P SETTLEMENT
-> **Domain:** DePIN • Renewable Microgrids • Smart Contracts  
-> **Status:** 🟡 Prototype  
-> **Overview:** Peer-to-peer decentralized application allowing microgrid solar/biogas producers to trade clean energy credits transparently with automated on-chain clearing.
+### 🤖 `[03]` AUTONOMOUS AI SENSOR ORACLE AGENT
+> **Domain:** Autonomous AI Agents • Web3 Oracles • Real-time Data Streaming  
+> **Status:** 🟡 Prototyping  
+> **Overview:** Autonomous Python agent utilizing LLM reasoning and mathematical boundary checks to filter sensor telemetry anomalies before cryptographically signing blockchain transaction payloads.
 ```text
-STACK: Solidity · Next.js · Ethers.js · Hardhat · TailwindCSS
-```
-
----
-
-### 🤖 `[03]` AUTONOMOUS AI SENSOR ORACLE
-> **Domain:** Agentic AI • Web3 Oracles • Real-time Data Feeds  
-> **Status:** 🟡 In Development  
-> **Overview:** Autonomous Python agent that ingests environmental sensor streams, verifies anomaly boundaries with LLMs, and signs cryptographically validated oracle transactions.
-```text
-STACK: Python · FastAPI · Web3.py · LangChain · Cryptographic Signing
+TECH STACK: Python · FastAPI · LangChain · Web3.py · Cryptographic Hashing
 ```
 
 ---
 
 <div align="center">
 
-## 📡 2026 ROADMAP // NEXT MISSIONS
+## 📡 2026 ROADMAP // STRATEGIC MISSIONS
 
 </div>
 
 ```text
 [PHASE 1] ████████████░░░░░░  Smart Contract Core & EVM Architecture   ✅ ACTIVE
-[PHASE 2] █████████░░░░░░░░░  IoT + Biogas Telemetry Integration       🟡 IN PROGRESS  
-[PHASE 3] ███████░░░░░░░░░░░  Autonomous AI Agents & Web3 Oracles      🟡 BUILDING
+[PHASE 2] █████████░░░░░░░░░  IoT + Biogas Telemetry Field Rig         🟡 IN PROGRESS  
+[PHASE 3] ███████░░░░░░░░░░░  Autonomous AI Sensor Oracles & Feeds     🟡 BUILDING
 [PHASE 4] ████░░░░░░░░░░░░░░  Formal Verification & Security Audits    📋 QUEUED
-[PHASE 5] ██░░░░░░░░░░░░░░░░  Cross-Chain ReFi Protocol Mainnet Launch 🎯 ENDGAME
+[PHASE 5] ██░░░░░░░░░░░░░░░░  ReFi Protocol Mainnet Launch             🎯 ENDGAME
 ```
 
 ---
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE MATRIX
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cabel20/cabel20/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cabel20/cabel20/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/cabel20/cabel20/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Snake Contribution Matrix" src="https://raw.githubusercontent.com/cabel20/cabel20/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -282,7 +325,17 @@ STACK: Python · FastAPI · Web3.py · LangChain · Cryptographic Signing
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 💬 DEV WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" alt="Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 TRANSMISSION CHANNELS // CONNECT
 
 <a href="https://linkedin.com/in/cabelundifined" target="_blank">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -303,15 +356,15 @@ STACK: Python · FastAPI · Web3.py · LangChain · Cryptographic Signing
 <br/><br/>
 
 ```bash
-┌──(caleb@web3-dev)-[~/cabel20]
+┌──(caleb@core-terminal)-[~/cabel20]
 └─$ git commit -m "Innovating the decentralized future, one block at a time ⚡"
-[main 7f8a9b2] Innovating the decentralized future, one block at a time ⚡
+[main 9e2f4a1] Innovating the decentralized future, one block at a time ⚡
 └─$ git push origin main
-🚀 System deployed and verified on-chain.
+🚀 Transmission verified. Node active in Nairobi, Kenya.
 ```
 
 <!-- Cyberpunk Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,40:7b2fff,80:00e575,100:00fff7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,30:7b2fff,70:00e575,100:00fff7&height=120&section=footer"/>
 
 <br/>
 <sub>⭐ <i>"Code is the new energy — and I'm here to make it renewable."</i> — <b>Caleb Munyaka</b></sub>
